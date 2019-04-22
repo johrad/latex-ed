@@ -1,0 +1,26 @@
+{
+  "name": "latex-ed",
+  "version": "0.0.1",
+  "description": "LaTeX editor for the 21st century",
+  "main": "index.js",
+  "scripts": {
+    "test": "lol benis",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johrad/latex-ed.git"
+  },
+  "keywords": [
+    "latex"
+  ],
+  "author": "jpdragic@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/johrad/latex-ed/issues"
+  },
+  "homepage": "https://github.com/johrad/latex-ed#readme",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  }
+}
